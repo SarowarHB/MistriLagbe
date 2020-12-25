@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MistriLagbe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Dhaka</item>
+        <item>Comilla</item>
+    </string-array>
+    <string-array name="City">
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Electrical Services</item>
+        <item>AC Services</item>
+        <item>Plumbing Services</item>
+        <item>CCTV Services</item>
+
+    </string-array>
+</resources>

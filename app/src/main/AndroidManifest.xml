@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mistrilagbe">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_iconn"
+        tools:replace="android:icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_iconn"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ForgotPassword"></activity>
+        <activity android:name=".CustomerPanel_BottomNavigation" />
+        <activity android:name=".sendotp" />
+        <activity android:name=".VerifyPhone" />
+        <activity android:name=".Techsendotp" />
+        <activity android:name=".TechForgotPassword" />
+        <activity android:name=".TechPanel_BottomNavigation" />
+        <activity android:name=".TechVerifyPhone" />
+        <activity android:name=".Registration" />
+        <activity android:name=".Loginphone" />
+        <activity android:name=".Login" />
+        <activity android:name=".TechRegistration" />
+        <activity android:name=".Techloginphone" />
+        <activity android:name=".Techlogin" />
+        <activity android:name=".ChooseOne" />
+        <activity android:name=".MainMenu" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

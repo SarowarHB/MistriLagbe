@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654309439814",
+    "firebase_url": "https://mistrilagbe-96109-default-rtdb.firebaseio.com",
+    "project_id": "mistrilagbe-96109",
+    "storage_bucket": "mistrilagbe-96109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654309439814:android:f623c8774148e317f68d47",
+        "android_client_info": {
+          "package_name": "com.example.mistrilagbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654309439814-lbtakp50lpkfah4r0jk00g0444h446hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mistrilagbe",
+            "certificate_hash": "0591e67d9a17ece9ef2e9c9f479fc92d26007490"
+          }
+        },
+        {
+          "client_id": "654309439814-pc242utodkju6lkqu532mpeeectpg3n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARry_j_FU7txVZ9VO34nYi9gypJousfH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654309439814-pc242utodkju6lkqu532mpeeectpg3n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
